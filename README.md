@@ -1,2 +1,11 @@
+# Quiz avec React et TypeScript
 
-#Réalisé par Mohammed MAATAOUI BELABBES -----> Génie Informatique/Technologie web (React tsx)
+Ce projet est une petite application de quiz développée en React avec TypeScript.
+
+## Technologies utilisées
+- React
+- TypeScript
+
+## Auteur
+Réalisé par Mohammed MAATAOUI BELABBES  
+Étudiant en Génie Informatique, option Technologies Web
